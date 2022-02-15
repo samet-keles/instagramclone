@@ -18,7 +18,7 @@ body {
 }
 
 ::placeholder{
-  background-image: url(/assets/search-solid.svg);
+  background-image: url("search-solid.svg");
   background-repeat: no-repeat;
   text-align: center;
   font-size: 14px;
